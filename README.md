@@ -42,6 +42,12 @@ ever book a slot that's genuinely open.
 
 ---
 
+## Architecture
+
+<img src="docs/architecture.png" alt="Fivesec architecture diagram" style="display:block; margin: 12px 0 24px 0; border: 1px solid #ddd; border-radius: 8px;">
+
+---
+
 ## Key Features
 
 - **Personal public booking link** — service selection → available
