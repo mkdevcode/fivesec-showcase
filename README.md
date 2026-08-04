@@ -14,9 +14,9 @@ clients by appointment.
 
 ## Screenshots
 
-![Public booking flow](screenshots/public-01-services-list.png)
-![Specialist dashboard](screenshots/cabinet-02-dashboard-today.png)
-![Installed PWA icon](screenshots/hero-03-pwa-icon.png)
+<img src="screenshots/public-01-services-list.png" width="320" style="display:block; margin: 12px 0 24px 0; border: 1px solid #ddd; border-radius: 8px;">
+<img src="screenshots/cabinet-02-dashboard-today.png" width="320" style="display:block; margin: 12px 0 24px 0; border: 1px solid #ddd; border-radius: 8px;">
+<img src="screenshots/hero-03-pwa-icon.png" width="320" style="display:block; margin: 12px 0 24px 0; border: 1px solid #ddd; border-radius: 8px;">
 
 More screenshots and video walkthroughs in [docs/gallery.md](docs/gallery.md).
 
