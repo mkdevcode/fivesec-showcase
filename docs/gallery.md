@@ -15,15 +15,15 @@ experience. Screenshots for a quick look, videos for the full flow.
 **Public Link — Services**
 First screen of the public booking link: services list, with the
 specialist's photo and a short bio at the top.
-<img src="../screenshots/public-01-services-list.png" width="320">
+<img src="../screenshots/public-01-services-list.png" width="320" style="display:block; margin: 12px 0 24px 0; border: 1px solid #ddd; border-radius: 8px;">
 
 **Public Booking — Select Date**
 Second step of public booking: date selection.
-<img src="../screenshots/public-02-select-date.png" width="320">
+<img src="../screenshots/public-02-select-date.png" width="320" style="display:block; margin: 12px 0 24px 0; border: 1px solid #ddd; border-radius: 8px;">
 
 **Public Booking — Select Time**
 Third step: available time slots for the selected date.
-<img src="../screenshots/public-03-select-time.png" width="320">
+<img src="../screenshots/public-03-select-time.png" width="320" style="display:block; margin: 12px 0 24px 0; border: 1px solid #ddd; border-radius: 8px;">
 
 ---
 
@@ -32,22 +32,22 @@ Third step: available time slots for the selected date.
 **Dashboard — Today's Bookings**
 The screen a specialist sees on launch: how many bookings today, when the
 next one is, and today's client list with status labels.
-<img src="../screenshots/cabinet-02-dashboard-today.png" width="320">
+<img src="../screenshots/cabinet-02-dashboard-today.png" width="320" style="display:block; margin: 12px 0 24px 0; border: 1px solid #ddd; border-radius: 8px;">
 
 **Dashboard — Day Off**
 Launch screen on a day off: the mini dashboard shows the day is blocked
 and how many clients are booked for tomorrow.
-<img src="../screenshots/cabinet-03-dashboard-dayoff.png" width="320">
+<img src="../screenshots/cabinet-03-dashboard-dayoff.png" width="320" style="display:block; margin: 12px 0 24px 0; border: 1px solid #ddd; border-radius: 8px;">
 
 **Current & Upcoming Bookings**
 Today's view showing which booking is currently in progress and what's
 coming up next.
-<img src="../screenshots/cabinet-04-current-booking-inprogress.png" width="320">
+<img src="../screenshots/cabinet-04-current-booking-inprogress.png" width="320" style="display:block; margin: 12px 0 24px 0; border: 1px solid #ddd; border-radius: 8px;">
 
 **Booking Detail Modal**
 Full booking details in a modal, with status controls and a reschedule
 action.
-<img src="../screenshots/cabinet-01-booking-detail-modal.png" width="320">
+<img src="../screenshots/cabinet-01-booking-detail-modal.png" width="320" style="display:block; margin: 12px 0 24px 0; border: 1px solid #ddd; border-radius: 8px;">
 
 ---
 
@@ -56,7 +56,7 @@ action.
 **Installed PWA Icon**
 Fivesec's icon on the home screen, alongside native apps — installed, not
 just bookmarked.
-<img src="../screenshots/hero-03-pwa-icon.png" width="320">
+<img src="../screenshots/hero-03-pwa-icon.png" width="320" style="display:block; margin: 12px 0 24px 0; border: 1px solid #ddd; border-radius: 8px;">
 
 ---
 
