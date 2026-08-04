@@ -88,7 +88,7 @@ Fivesec's icon on the home screen, alongside native apps — installed, not just
 
 The full client flow through a specialist's public booking link — service, date/time, and confirmation.
 
-https://github.com/user-attachments/assets/eb290ff1-5133-49c8-82de-ff52894303f9
+https://github.com/user-attachments/assets/ff012742-1dc8-4d14-8aee-c671dbf94d67
 
 ---
 
