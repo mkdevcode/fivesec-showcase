@@ -14,11 +14,11 @@ clients by appointment.
 
 ## Screenshots
 
-![Booking flow](screenshots/mockup-01-booking-flow.png)
-![Specialist cabinet](screenshots/mockup-02-cabinet-bookings.png)
-![Schedule](screenshots/mockup-03-schedule.png)
+![Public booking flow](screenshots/public-01-services-list.png)
+![Specialist dashboard](screenshots/cabinet-02-dashboard-today.png)
+![Installed PWA icon](screenshots/hero-03-pwa-icon.png)
 
-More in [docs/gallery.md](docs/gallery.md).
+More screenshots and video walkthroughs in [docs/gallery.md](docs/gallery.md).
 
 ---
 
