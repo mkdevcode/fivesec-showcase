@@ -114,7 +114,7 @@ https://github.com/user-attachments/assets/1523fa82-2f7c-4519-86eb-db914e82c8b8
 
 Registering a new client directly from the specialist's account, not through the public link.
 
-https://github.com/user-attachments/assets/33ab0154-282c-4ec3-89df-a6301ad584d4
+https://github.com/user-attachments/assets/f8896f38-9681-41ab-9cfc-744da03b5b19
 
 ---
 
@@ -176,7 +176,7 @@ https://github.com/user-attachments/assets/253d28e0-9690-42a4-bd70-3133ce589345
 
 Creating a new service and editing its details.
 
-https://github.com/user-attachments/assets/bd1ba6a0-bfe6-4901-aa01-4810499b4e6b
+https://github.com/user-attachments/assets/de439ed8-8c54-45df-a201-6eba6c902029
 
 ---
 
@@ -212,7 +212,7 @@ https://github.com/user-attachments/assets/1848f97a-6b0f-4746-891a-a369b2a40e98
 
 Installing Fivesec as an app on a phone/tablet home screen.
 
-https://github.com/user-attachments/assets/2ef6de2f-8428-4205-8437-a3bde010b75a
+https://github.com/user-attachments/assets/685ce9c5-f961-48eb-b69d-015b2c328bb2
 
 ---
 
@@ -220,7 +220,7 @@ https://github.com/user-attachments/assets/2ef6de2f-8428-4205-8437-a3bde010b75a
 
 Logging into the account from the installed PWA.
 
-https://github.com/user-attachments/assets/a15eacc7-e111-4949-bf4d-55d733c6c497
+https://github.com/user-attachments/assets/2abad708-5147-4536-8e89-0894f9581c85
 
 ---
 
