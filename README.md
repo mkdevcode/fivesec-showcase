@@ -77,6 +77,6 @@ client data model.
 
 ## Tech Stack
 
-Next.js 16 · React 19 · TypeScript · Prisma 6 · PostgreSQL · NextAuth v5 ·
+Next.js 16 · React 19 · TypeScript · Prisma 6 · PostgreSQL · NextAuth v4 ·
 next-intl · Tailwind CSS 4 · Radix UI · Web Push API · Cloudinary · Resend ·
 Vercel Analytics
