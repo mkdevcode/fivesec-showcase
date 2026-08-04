@@ -15,15 +15,15 @@ experience. Screenshots for a quick look, videos for the full flow.
 **Public Link — Services**
 First screen of the public booking link: services list, with the
 specialist's photo and a short bio at the top.
-![Services list](../screenshots/public-01-services-list.png)
+<img src="../screenshots/public-01-services-list.png" width="320">
 
 **Public Booking — Select Date**
 Second step of public booking: date selection.
-![Select date](../screenshots/public-02-select-date.png)
+<img src="../screenshots/public-02-select-date.png" width="320">
 
 **Public Booking — Select Time**
 Third step: available time slots for the selected date.
-![Select time](../screenshots/public-03-select-time.png)
+<img src="../screenshots/public-03-select-time.png" width="320">
 
 ---
 
@@ -32,22 +32,22 @@ Third step: available time slots for the selected date.
 **Dashboard — Today's Bookings**
 The screen a specialist sees on launch: how many bookings today, when the
 next one is, and today's client list with status labels.
-![Dashboard today](../screenshots/cabinet-02-dashboard-today.png)
+<img src="../screenshots/cabinet-02-dashboard-today.png" width="320">
 
 **Dashboard — Day Off**
 Launch screen on a day off: the mini dashboard shows the day is blocked
 and how many clients are booked for tomorrow.
-![Dashboard day off](../screenshots/cabinet-03-dashboard-dayoff.png)
+<img src="../screenshots/cabinet-03-dashboard-dayoff.png" width="320">
 
 **Current & Upcoming Bookings**
 Today's view showing which booking is currently in progress and what's
 coming up next.
-![Current booking](../screenshots/cabinet-04-current-booking-inprogress.png)
+<img src="../screenshots/cabinet-04-current-booking-inprogress.png" width="320">
 
 **Booking Detail Modal**
 Full booking details in a modal, with status controls and a reschedule
 action.
-![Booking detail modal](../screenshots/cabinet-01-booking-detail-modal.png)
+<img src="../screenshots/cabinet-01-booking-detail-modal.png" width="320">
 
 ---
 
@@ -56,7 +56,7 @@ action.
 **Installed PWA Icon**
 Fivesec's icon on the home screen, alongside native apps — installed, not
 just bookmarked.
-![PWA icon](../screenshots/hero-03-pwa-icon.png)
+<img src="../screenshots/hero-03-pwa-icon.png" width="320">
 
 ---
 
@@ -67,11 +67,11 @@ just bookmarked.
 **Booking via Public Link**
 The full client flow through a specialist's public booking link — service,
 date/time, and confirmation.
-`[VIDEO: public-booking-link.mp4]`
+https://github.com/user-attachments/assets/eb290ff1-5133-49c8-82de-ff52894303f9
 
 **Booking Confirmation**
 The confirmation screen a client sees right after submitting a booking.
-`[VIDEO: booking-confirmation.mov]`
+https://github.com/user-attachments/assets/ef242bae-e250-4a8a-8b8a-5ab8f5a8412d
 
 ---
 
@@ -80,20 +80,20 @@ The confirmation screen a client sees right after submitting a booking.
 **Browsing & Updating Bookings**
 Scrolling a day's booking list, marking a completed booking as successful,
 and opening a booking that's already closed to review it.
-`[VIDEO: video-bookings-status-scroll.mp4]`
+https://github.com/user-attachments/assets/1523fa82-2f7c-4519-86eb-db914e82c8b8
 
 **Creating a Client from the Cabinet**
 Registering a new client directly from the specialist's account, not
 through the public link.
-`[VIDEO: client-registration-admin.mp4]`
+https://github.com/user-attachments/assets/33ab0154-282c-4ec3-89df-a6301ad584d4
 
 **Rescheduling a Booking**
 Moving an existing booking to a different date.
-`[VIDEO: reschedule-booking.mp4]`
+https://github.com/user-attachments/assets/f232bc49-c78e-4a4c-9297-0f4c413b91a5
 
 **Marking a Prepayment**
 Searching for a booking in All Bookings and marking it as prepaid.
-`[VIDEO: booking-search-prepayment.mp4]`
+https://github.com/user-attachments/assets/207151f5-5867-40ac-bdff-637118aa65bc
 
 ---
 
@@ -102,12 +102,12 @@ Searching for a booking in All Bookings and marking it as prepaid.
 **Editing Contact Channels**
 Adding a client's WhatsApp contact and setting it as their preferred
 contact method.
-`[VIDEO: contact-edit-whatsapp.mov]`
+https://github.com/user-attachments/assets/3a98e94c-6f3d-4351-a89a-e3f7904e25e8
 
 **Client Search & History**
 Finding a client through the All Clients tab and viewing their booking
 history.
-`[VIDEO: client-search-history.mp4]`
+https://github.com/user-attachments/assets/5a5d685b-e048-4e78-aa77-fbe05f5fa6f4
 
 ---
 
@@ -116,12 +116,12 @@ history.
 **Blocking Personal Time**
 Adding a personal time block to the daily schedule and showing how it
 removes that window from bookable slots.
-`[VIDEO: personal-time-block.mov]`
+https://github.com/user-attachments/assets/e71d2bc0-0c06-4a24-8560-37dd5ad1381c
 
 **Schedule & Exceptions**
 Editing the weekly work schedule and adding an exception day — then
 showing that date becomes unavailable on the public calendar.
-`[VIDEO: schedule-exceptions.mp4]`
+https://github.com/user-attachments/assets/253d28e0-9690-42a4-bd70-3133ce589345
 
 ---
 
@@ -129,11 +129,11 @@ showing that date becomes unavailable on the public calendar.
 
 **Creating & Editing a Service (Part 1)**
 Creating a new service and editing its details.
-`[VIDEO: service-create-edit-1.mp4]`
+https://github.com/user-attachments/assets/bd1ba6a0-bfe6-4901-aa01-4810499b4e6b
 
 **Creating & Editing a Service (Part 2)**
 Continued: further editing of service details.
-`[VIDEO: service-create-edit-2.mp4]`
+https://github.com/user-attachments/assets/074badc2-a8c2-471e-aec9-dcfc4600b1e1
 
 ---
 
@@ -141,11 +141,11 @@ Continued: further editing of service details.
 
 **Settings — Font Size**
 The settings page, adjusting the interface font size.
-`[VIDEO: settings-font-size.mp4]`
+https://github.com/user-attachments/assets/8a2698c4-705b-411c-af01-4ccba4251df6
 
 **Settings — Timezone & Currency**
 Configuring timezone, city, and currency for the specialist's account.
-`[VIDEO: settings-locale-currency.mp4]`
+https://github.com/user-attachments/assets/1848f97a-6b0f-4746-891a-a369b2a40e98
 
 ---
 
@@ -153,12 +153,12 @@ Configuring timezone, city, and currency for the specialist's account.
 
 **Installing the PWA**
 Installing Fivesec as an app on a phone/tablet home screen.
-`[VIDEO: pwa-install.mp4]`
+https://github.com/user-attachments/assets/2ef6de2f-8428-4205-8437-a3bde010b75a
 
 **Signing in to the Installed App**
 Logging into the account from the installed PWA.
-`[VIDEO: pwa-login.mp4]`
+https://github.com/user-attachments/assets/a15eacc7-e111-4949-bf4d-55d733c6c497
 
 **Push Notifications**
 Enabling push notifications and receiving a live test notification.
-`[VIDEO: push-notifications.mp4]`
+https://github.com/user-attachments/assets/940158a1-ecad-444b-afa2-61c9b73ae051
